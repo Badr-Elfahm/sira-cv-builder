@@ -17,6 +17,12 @@ Sira (سيرة) is a standalone web application built with HTML, CSS, and vanill
 - Multi-page A4 layout with PDF and PNG export.
 - Offline operation with no external libraries or network dependencies.
 
+## Try it online
+
+**[Launch Sira CV Builder →](https://badr-elfahm.github.io/sira-cv-builder/)**
+
+Open the link and start building your CV—no download required. For offline use, follow the steps below.
+
 ## Get started
 
 1. Select **Code → Download ZIP** on GitHub and extract the archive.
