@@ -74,6 +74,8 @@ Edit `index.html` and refresh it in your browser. The app uses browser APIs for 
 
 The accompanying Arabic guide records prior testing in Microsoft Edge, including offline use, local saving, imports, templates, and exports. Export behavior and print dialogs may vary across browsers and mobile devices.
 
+For a repeatable manual review and implementation tradeoffs, see [the development verification guide](DEVELOPMENT.md).
+
 ## Author
 
 Built by [Badr](https://github.com/Badr-Elfahm) using web development and AI-assisted tools.
